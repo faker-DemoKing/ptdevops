@@ -37,5 +37,5 @@ requests >= 2.22.0
 PyJWT >= 1.7.1
 elasticsearch == 7.0.4
 future == 0.18.2
-paramiko==2.6.0
+paramiko==2.10.1
 cffi==1.14.0
